@@ -3,7 +3,7 @@
 // Project       : ECE 491 - Senior Design I
 //-----------------------------------------------------------------------------
 // File          : single_pulser.v
-// Author        : John Nestor
+// Author        : Maurice Otieno
 // Created       : 02.09.2009
 // Last modified : 02.09.2009
 //-----------------------------------------------------------------------------
