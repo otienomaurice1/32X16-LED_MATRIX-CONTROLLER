@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Maurice Otieno
 // 
 // Create Date: 04/20/2022 10:47:18 AM
 // Design Name: 
